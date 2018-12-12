@@ -1,0 +1,19 @@
+{
+  "name": "medium-redux",
+  "version": "1.0.0",
+  "description": "Simple redux app for Medium tutorial.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dheeraj Suthar",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.2.0",
+    "@babel/node": "^7.2.0",
+    "@babel/preset-env": "^7.2.0"
+  },
+  "dependencies": {
+    "redux": "^4.0.1"
+  }
+}
